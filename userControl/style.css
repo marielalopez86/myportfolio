@@ -66,3 +66,7 @@ body {
 	margin:5px;
 	float:none;	
 }
+
+.myicon2{
+	cursor: default;
+}
